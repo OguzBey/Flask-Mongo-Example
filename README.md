@@ -12,9 +12,9 @@ Run
 
 ```
     python main.py
-
 ```
 Endpoints:
-    - /register
-    - /users
-    - /users/{username}
+
+- /register
+- /users
+- /users/{username}
